@@ -1,0 +1,34 @@
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\Grapg_Lab2.exe.config
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\Grapg_Lab2.exe
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\Grapg_Lab2.pdb
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.dll
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.pdb
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.xml
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.csprojAssemblyReference.cache
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\obj\Debug\Grapg_Lab2.Properties.Resources.resources
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.csproj.GenerateResource.cache
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.csproj.CopyComplete
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\obj\Debug\Grapg_Lab2.exe
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\obj\Debug\Grapg_Lab2.pdb
+C:\Users\Dragonsnom\Desktop\ИТММ\Компьютергая графика\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.Form1.resources
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\Grapg_Lab2.exe.config
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\Grapg_Lab2.exe
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\Grapg_Lab2.pdb
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.dll
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.GLControl.dll
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.pdb
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.xml
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.GLControl.pdb
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\bin\Debug\OpenTK.GLControl.xml
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.csprojAssemblyReference.cache
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.Form1.resources
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\obj\Debug\Grapg_Lab2.Properties.Resources.resources
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.csproj.GenerateResource.cache
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.csproj.CoreCompileInputs.cache
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\obj\Debug\Graph_Lab2.csproj.CopyComplete
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\obj\Debug\Grapg_Lab2.exe
+D:\unn\Graph\Grapg_Lab2\Grapg_Lab2\obj\Debug\Grapg_Lab2.pdb
